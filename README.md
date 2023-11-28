@@ -37,6 +37,8 @@ Switch to drawing mode from design mode
 
 ## OUTPUT
 
+![Screenshot 2023-11-28 095635](https://github.com/Confusion7/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/141727149/5f0a15a9-2407-4f5d-83f4-58ddcd35cf7a)
+
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
